@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Awentis/static/css/main.a153de5b.css",
+    "main.css": "/Awentis/static/css/main.f28e9b4a.css",
     "main.js": "/Awentis/static/js/main.74826e35.js",
     "static/media/Function.svg": "/Awentis/static/media/Function.bb4ff7b3f34899ca61f368c1ad84e440.svg",
     "static/media/Dev3.svg": "/Awentis/static/media/Dev3.e7fd0478451b8d72ff9b93b1ea475b66.svg",
@@ -10,11 +10,11 @@
     "static/media/Arbeit.svg": "/Awentis/static/media/Arbeit.3f2a40fcc7406b9686f2823757c92812.svg",
     "static/media/Fotografie.svg": "/Awentis/static/media/Fotografie.1f933c850746c49e27bd77cb75d76c61.svg",
     "index.html": "/Awentis/index.html",
-    "main.a153de5b.css.map": "/Awentis/static/css/main.a153de5b.css.map",
+    "main.f28e9b4a.css.map": "/Awentis/static/css/main.f28e9b4a.css.map",
     "main.74826e35.js.map": "/Awentis/static/js/main.74826e35.js.map"
   },
   "entrypoints": [
-    "static/css/main.a153de5b.css",
+    "static/css/main.f28e9b4a.css",
     "static/js/main.74826e35.js"
   ]
 }
