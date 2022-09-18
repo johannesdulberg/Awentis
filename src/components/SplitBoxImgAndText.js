@@ -38,7 +38,7 @@ export default function SplitBoxImgAndText(props) {
         })
         observer1.observe(myRef1.current)
         observer2.observe(myRef2.current)
-        observer3.observe(myRef2.current)
+        observer3.observe(myRef1.current)
       })
     //FADIN END
 
