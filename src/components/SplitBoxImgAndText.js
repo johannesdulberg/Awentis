@@ -45,12 +45,12 @@ export default function SplitBoxImgAndText(props) {
   return (
     <section name='home'  className={` w-full  bg-${props.args.bgColor} flex ${props.args.reverse ? "md:flex-row-reverse" :"md:flex-row"} flex-col-reverse pb-[40px]`}>
         
-        <div ref={myRef2} className={` ${intersection2 ? "fadeinNoMove":"invisible" } md:bg-transparent p-[10%] md:pl-[2%] md:p-0 w-full md:w-2/5 h-full  mt-20 z-10 flex justify-center`}>
+        <div ref={myRef2} className={` ${intersection2 ? "fadeinNoMove":"invisible" } md:bg-transparent p-[10%] md:pl-[2%] md:p-0 w-full md:w-2/5 h-full  md:mt-20 z-10 flex justify-center`}>
           <div className="w-full h-full md:pt-[20%]">
             <img alt="self-Logo w-1/4 md:w-1/2" src={props.args.imagePath}/>
           </div>
         </div>
-        <div ref={myRef1} className={` ${intersection1 ? (reverse ? "fadeinLeft" : "fadeinRight") : "invisible" } w-full md:w-3/5 h-full mt-20 pl-[5%] lg:pl-20 flex flex-col z-10 p-8 `}>
+        <div ref={myRef1} className={` ${intersection1 ? (reverse ? "fadeinLeft" : "fadeinRight") : "invisible" } w-full md:w-3/5 h-full mt-5 md:mt-20 pl-[5%] lg:pl-20 flex flex-col z-10 p-8 `}>
             <h2 className="text-2xl sm:text-5xl xl:text-[60px] lg:text-[40px] md:text-[30px] font-bold md:text-left text-center ">{props.args.headerText}</h2>
             <div className={` ${intersection3 && "underline-animation-scroll"} mt-2`}></div>
             <p className=" text-m sm:text-l lg:text-xl  mt-4 md:text-left text-center">
