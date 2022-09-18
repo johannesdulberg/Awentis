@@ -34,7 +34,7 @@ export default function SplitBoxImgAndText(props) {
             
 
         },{
-            threshold:0.7
+            threshold:0.5
         })
         observer1.observe(myRef1.current)
         observer2.observe(myRef2.current)
