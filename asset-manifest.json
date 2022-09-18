@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Awentis/static/css/main.7e99bd31.css",
-    "main.js": "/Awentis/static/js/main.11a62d5c.js",
+    "main.js": "/Awentis/static/js/main.bb61db10.js",
     "static/media/Function.svg": "/Awentis/static/media/Function.bb4ff7b3f34899ca61f368c1ad84e440.svg",
     "static/media/Dev3.svg": "/Awentis/static/media/Dev3.e7fd0478451b8d72ff9b93b1ea475b66.svg",
     "static/media/pageBuilder.svg": "/Awentis/static/media/pageBuilder.329c66f0728393baa7918c0ebc80d69a.svg",
@@ -11,10 +11,10 @@
     "static/media/Fotografie.svg": "/Awentis/static/media/Fotografie.1f933c850746c49e27bd77cb75d76c61.svg",
     "index.html": "/Awentis/index.html",
     "main.7e99bd31.css.map": "/Awentis/static/css/main.7e99bd31.css.map",
-    "main.11a62d5c.js.map": "/Awentis/static/js/main.11a62d5c.js.map"
+    "main.bb61db10.js.map": "/Awentis/static/js/main.bb61db10.js.map"
   },
   "entrypoints": [
     "static/css/main.7e99bd31.css",
-    "static/js/main.11a62d5c.js"
+    "static/js/main.bb61db10.js"
   ]
 }
