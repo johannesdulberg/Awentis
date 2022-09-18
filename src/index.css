@@ -143,7 +143,11 @@
     margin-right: auto;
   }
 }
-
+@media (max-width: 768px) {
+  .flex-row-rever{
+    flex-direction: row-reverse !important;
+  }
+}
 
 .fadeinRight{
   animation: fadeInAnimationRight ease 1.5s;

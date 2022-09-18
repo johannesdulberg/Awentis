@@ -43,7 +43,7 @@ export default function SplitBoxImgAndText(props) {
     //FADIN END
 
   return (
-    <section name='home'  className={` w-full  bg-${props.args.bgColor} flex md:flex-row${props.args.reverse ? "-reverse" :""} flex-col-reverse pb-[40px]`}>
+    <section name='home'  className={` w-full  bg-${props.args.bgColor} flex md:flex-row ${props.args.reverse ? "flex-row-rever" :""} flex-col-reverse pb-[40px]`}>
         
         <div ref={myRef2} className={` ${intersection2 ? "fadeinNoMove":"invisible" } md:bg-transparent p-[10%] md:pl-[2%] md:p-0 w-full md:w-2/5 h-full  mt-20 z-10 flex justify-center`}>
           <div className="w-full h-full md:pt-[20%]">
