@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Awentis/static/css/main.ac6d8a3e.css",
-    "main.js": "/Awentis/static/js/main.5a611e32.js",
+    "main.css": "/Awentis/static/css/main.7e99bd31.css",
+    "main.js": "/Awentis/static/js/main.ab39c85f.js",
     "static/media/Function.svg": "/Awentis/static/media/Function.bb4ff7b3f34899ca61f368c1ad84e440.svg",
     "static/media/Dev3.svg": "/Awentis/static/media/Dev3.e7fd0478451b8d72ff9b93b1ea475b66.svg",
     "static/media/pageBuilder.svg": "/Awentis/static/media/pageBuilder.329c66f0728393baa7918c0ebc80d69a.svg",
@@ -10,11 +10,11 @@
     "static/media/Arbeit.svg": "/Awentis/static/media/Arbeit.3f2a40fcc7406b9686f2823757c92812.svg",
     "static/media/Fotografie.svg": "/Awentis/static/media/Fotografie.1f933c850746c49e27bd77cb75d76c61.svg",
     "index.html": "/Awentis/index.html",
-    "main.ac6d8a3e.css.map": "/Awentis/static/css/main.ac6d8a3e.css.map",
-    "main.5a611e32.js.map": "/Awentis/static/js/main.5a611e32.js.map"
+    "main.7e99bd31.css.map": "/Awentis/static/css/main.7e99bd31.css.map",
+    "main.ab39c85f.js.map": "/Awentis/static/js/main.ab39c85f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac6d8a3e.css",
-    "static/js/main.5a611e32.js"
+    "static/css/main.7e99bd31.css",
+    "static/js/main.ab39c85f.js"
   ]
 }
